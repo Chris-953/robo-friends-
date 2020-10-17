@@ -1,2 +1,2 @@
 # robo-friends-
-starting projet
+starting project
